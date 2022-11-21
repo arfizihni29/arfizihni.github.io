@@ -5,8 +5,8 @@ baseurl: "/jekyll-theme-serial-programmer"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Arfi
+  email: arfizihni@gmail.com
 
 plugins:
   - jemoji
